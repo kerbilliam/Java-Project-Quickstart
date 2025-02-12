@@ -8,18 +8,27 @@ For those who would like to learn more about Git and don't mind using the comman
 
 ##  IntelliJ Quickstart Video Guide
 
-[Insert Video Link]
+[Work in Progress]
 
 ##  VS Code/Codium Quickstart Video Guide
 
-[Insert Video Link]
+[Work in Progress]
 
-##  Git Quickstart Guide (Command-Line)
+##  Git Quickstart Guide
 
-View the `README.git.md` file within this repository.
+If you have chosen to manage your repository within an IDE, I'd highly recommend watching [this playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&si=GUFSiFppn8n_o8VA) by [@NetNinja](https://www.youtube.com/@NetNinja). It will teach you the basic concepts of Git and GitHub. Even though he uses the command-line, the concepts still apply and I believe he teaches them very well.
+
+<u>If you don't mind using the command-line,</u> view the `README.git.md` file within this repository. Checking out the plalist linked above is also recommended.
+
 
 ##  The More Manual Manual Method to Set Up your Project
 
 View the `README.dev.md` file within this repository.
 
 Alternatively, you can watch [this video](https://youtu.be/4UBpOfvAaQw) which covers most of what is in `README.dev.md`. It is inteded as a supplemental video, but that shouldn't be too much of a problem.
+
+## Note
+
+I do not claim to be an expert on this topic, but the content that I've written into these guides works well for me and I wish I could have followed a guide like this when I was learning. Feel free to deviate from the procedures written to better suit your needs and please leave some feedback on where this guide can be improved!
+
+Thank you for checking out this guide!  :)
