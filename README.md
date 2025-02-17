@@ -16,11 +16,7 @@ Use Git within IntelliJ
 
 ##  VS Code Quickstart Video Guide
 
-Setup Git and GitHub
-[Work in Progress]
-
-Use Git within VS Code
-[Work in Progress]
+[TBD]
 
 ##  Git Quickstart Guide
 
