@@ -9,10 +9,10 @@ For those who would like to learn more about Git and don't mind using the comman
 ##  IntelliJ Quickstart Video Guide
 
 Setup Git and GitHub
-[Work in Progress]
+[https://youtu.be/0rsmRLhHTv4](https://youtu.be/0rsmRLhHTv4)
 
 Use Git within IntelliJ
-[Work in Progress]
+[https://youtu.be/TkT6s1_ql28](https://youtu.be/TkT6s1_ql28)
 
 ##  VS Code Quickstart Video Guide
 
